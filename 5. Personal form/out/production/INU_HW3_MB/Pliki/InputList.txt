@@ -1,0 +1,7 @@
+Jan Kowalski 102 8 18
+Hernyk Niewiadomski 101 8 17
+Janina Nowak 103 9 17
+Irmina Lewandowska 104 9 16
+Maciej Baranowski 105 10 15
+Waldermar Kiepski 106 7 18
+
